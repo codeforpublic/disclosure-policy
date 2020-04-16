@@ -1,4 +1,4 @@
-# Vulnerability Disclosure Policy 
+# "หมอชนะ" Vulnerability Disclosure Policy 
 
 "หมอชนะ" Vulnerability Disclosure Policy 
 
