@@ -21,9 +21,9 @@ If you follow these guidelines when reporting an issue to us, we commit to:
 
 **Scope**  
 * MorChana - หมอชนะ : Android Mobile Application
-https://play.google.com/store/apps/details?id=com.thaialert.app
+( https://play.google.com/store/apps/details?id=com.thaialert.app )
 * MorChana - หมอชนะ : iOS Mobile Application
-https://apps.apple.com/th/app/morchana-%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%8A%E0%B8%99%E0%B8%B0/id1505185420
+( https://apps.apple.com/th/app/id1505185420 )
 * https://*.thaialert.com/
 
 **Out of scope**  
