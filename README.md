@@ -10,7 +10,7 @@ We require that all researchers:
 * Make every effort to avoid privacy violations, degradation of user experience, disruption to production systems, and destruction of data during security testing;
 * Perform research only within the scope set out below; 
 * Use the identified communication channels to report vulnerability information to us; and
-* Keep information about any vulnerabilities you’ve discovered confidential between yourself and "หมอชนะ"'s Team until we’ve had [90] days to resolve the issue.
+* Keep information about any vulnerabilities you’ve discovered confidential between yourself and "หมอชนะ"'s Team until we’ve had 30 days to resolve the issue.
 
 
 If you follow these guidelines when reporting an issue to us, we commit to:
